@@ -3,6 +3,31 @@ A simple Java console app that reads a vCard file containing multiple entries an
 
 I started this project for my secondary phone Philips E130, in which I needed my Andorid contacts, but everything out there left me only the first phonenumber in a vcard.
 
+With this app, I created a new vCard for each number and copied over the FormattedName from the original and added a suffix. 
+
+So,
+
+`Formatted Name`
+
+`Cell1`
+
+`Cell2`
+
+becomes
+
+`Formatted Name`
+
+`Cell1`
+
+and 
+
+`Formatted-suffix Name`
+
+`Cell2`
+
+
+
+
 ##Credits :
 [@mangstadt](https://github.com/mangstadt) for his awesome work in [Ez-vcard](https://github.com/mangstadt/ez-vcard)
 This library made it really easy for me to achieve the goal.
