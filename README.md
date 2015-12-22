@@ -26,6 +26,8 @@ and
 `Cell2`
 
 
+The generated vcard file can be imported to a variety of Spreadtrum based basic features phone. I have tested on Philips E130 and Infocus F110
+
 
 
 ##Credits :
